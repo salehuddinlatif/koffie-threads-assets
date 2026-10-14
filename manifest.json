@@ -1,7 +1,7 @@
 {
   "_nota": "URL awam tetap untuk post bergambar Threads @koffiejlnmentol. Repo ini AWAM — gambar pemasaran sahaja, tiada data bisnes/token. Jangan edit dengan tangan; guna koffie_threads_media_build.py.",
   "base_url": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/",
-  "dijana_at": "2026-10-14T10:22:23+08:00",
+  "dijana_at": "2026-10-14T10:23:37+08:00",
   "had_threads": {
     "format": "JPEG/PNG",
     "bytes_max": 8388608,
@@ -23,75 +23,75 @@
   },
   "meta": {
     "01-iced-latte-pour.jpg": {
-      "bytes": 208137,
+      "bytes": 152864,
       "width": 727,
       "height": 1280,
       "format": "JPEG",
       "ratio": 1.7607,
-      "sha256": "02fff39337425bba7a22b058696a03dcf74471a03e0ed459cf8b83783f452d2f",
+      "sha256": "da519a36d4f72e4de5bc08cb6065ef76a897c442ff116620c87077a83d2ee06d",
       "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\01-iced-latte-pour.jpg"
     },
     "02-iced-coffee.jpg": {
-      "bytes": 119960,
+      "bytes": 90325,
       "width": 960,
       "height": 1280,
       "format": "JPEG",
       "ratio": 1.3333,
-      "sha256": "f03be8c40f361e4a5b0b2354fd1322366fe6cd387d6f8d3e2162ff880025950c",
+      "sha256": "2a9774d2dc480bc839cd94d812a4e566ea67ad5b7ad5e486a12616e17666d18f",
       "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\02-iced-coffee.jpg"
     },
     "03-matcha-to-go.jpg": {
-      "bytes": 114599,
+      "bytes": 85380,
       "width": 896,
       "height": 1200,
       "format": "JPEG",
       "ratio": 1.3393,
-      "sha256": "d23d200eb037deed0966d5f83b5c2458d9f76b43bd732102086879ed0bd6ca60",
+      "sha256": "622807d028cddf5c231c8fbd31d646490dd2da52d0bea09214367abd30be3be8",
       "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\03-matcha-to-go.jpg"
     },
     "04-coffee-cookies.jpg": {
-      "bytes": 157999,
+      "bytes": 117870,
       "width": 896,
       "height": 1195,
       "format": "JPEG",
       "ratio": 1.3337,
-      "sha256": "14a159ca9684a9bc82a3881130194ea8eb750b49467ca47086b0779c0181d9ed",
+      "sha256": "d58a84d34b6d2405bafd0831ddcfcbc51aaf16ea88d699e7a958406ce27d9e13",
       "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\04-coffee-cookies.jpg"
     },
     "05-shop-night.jpg": {
-      "bytes": 122862,
+      "bytes": 138093,
       "width": 720,
       "height": 900,
       "format": "JPEG",
       "ratio": 1.25,
-      "sha256": "aa2a16466957063089a661739e30c14edb46597f5d0598f42c1ce33e9bff6431",
+      "sha256": "a7a51c634a9ef12ee622778484613b84d3d1d444b94e4d2d76d6ef866f078eb1",
       "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\05-shop-night.jpg"
     },
     "06-event-booth.jpg": {
-      "bytes": 214038,
+      "bytes": 157539,
       "width": 960,
       "height": 1280,
       "format": "JPEG",
       "ratio": 1.3333,
-      "sha256": "94f498bdb98ab4d08c01a4f4cb42e7fd2413272884fb820e3d85a697b3886533",
+      "sha256": "dd24540f27d6b88978c2d9bf09769c893f323631c620712edfa28afddc968d02",
       "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\06-event-booth.jpg"
     },
     "07-merch.jpg": {
-      "bytes": 177862,
+      "bytes": 132896,
       "width": 960,
       "height": 1280,
       "format": "JPEG",
       "ratio": 1.3333,
-      "sha256": "0a800cbdce863a76cef6adaa9b9801b9899e0e52326ecec70a640e1f5d3603b0",
+      "sha256": "cb81e660a8b81878347abc9c1be8f381951903dab210115671f10d952d02616f",
       "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\07-merch.jpg"
     },
     "08-team.jpg": {
-      "bytes": 121794,
+      "bytes": 90210,
       "width": 960,
       "height": 1280,
       "format": "JPEG",
       "ratio": 1.3333,
-      "sha256": "c52201100f1168c4235206e8bfab58f8b06d5b3be4210c12c65bbe6e800d7c48",
+      "sha256": "3f1d1ab9d514b157b6a80c5199dcca1205b0d5e5f22926718844d4d4707bcec4",
       "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\08-team.jpg"
     }
   }
