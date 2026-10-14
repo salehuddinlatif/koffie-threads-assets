@@ -1,0 +1,98 @@
+{
+  "_nota": "URL awam tetap untuk post bergambar Threads @koffiejlnmentol. Repo ini AWAM — gambar pemasaran sahaja, tiada data bisnes/token. Jangan edit dengan tangan; guna koffie_threads_media_build.py.",
+  "base_url": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/",
+  "dijana_at": "2026-10-14T10:22:23+08:00",
+  "had_threads": {
+    "format": "JPEG/PNG",
+    "bytes_max": 8388608,
+    "lebar": [
+      320,
+      1440
+    ],
+    "nisbah_max": 10.0
+  },
+  "images": {
+    "01-iced-latte-pour.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/01-iced-latte-pour.jpg",
+    "02-iced-coffee.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/02-iced-coffee.jpg",
+    "03-matcha-to-go.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/03-matcha-to-go.jpg",
+    "04-coffee-cookies.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/04-coffee-cookies.jpg",
+    "05-shop-night.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/05-shop-night.jpg",
+    "06-event-booth.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/06-event-booth.jpg",
+    "07-merch.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/07-merch.jpg",
+    "08-team.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/08-team.jpg"
+  },
+  "meta": {
+    "01-iced-latte-pour.jpg": {
+      "bytes": 208137,
+      "width": 727,
+      "height": 1280,
+      "format": "JPEG",
+      "ratio": 1.7607,
+      "sha256": "02fff39337425bba7a22b058696a03dcf74471a03e0ed459cf8b83783f452d2f",
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\01-iced-latte-pour.jpg"
+    },
+    "02-iced-coffee.jpg": {
+      "bytes": 119960,
+      "width": 960,
+      "height": 1280,
+      "format": "JPEG",
+      "ratio": 1.3333,
+      "sha256": "f03be8c40f361e4a5b0b2354fd1322366fe6cd387d6f8d3e2162ff880025950c",
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\02-iced-coffee.jpg"
+    },
+    "03-matcha-to-go.jpg": {
+      "bytes": 114599,
+      "width": 896,
+      "height": 1200,
+      "format": "JPEG",
+      "ratio": 1.3393,
+      "sha256": "d23d200eb037deed0966d5f83b5c2458d9f76b43bd732102086879ed0bd6ca60",
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\03-matcha-to-go.jpg"
+    },
+    "04-coffee-cookies.jpg": {
+      "bytes": 157999,
+      "width": 896,
+      "height": 1195,
+      "format": "JPEG",
+      "ratio": 1.3337,
+      "sha256": "14a159ca9684a9bc82a3881130194ea8eb750b49467ca47086b0779c0181d9ed",
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\04-coffee-cookies.jpg"
+    },
+    "05-shop-night.jpg": {
+      "bytes": 122862,
+      "width": 720,
+      "height": 900,
+      "format": "JPEG",
+      "ratio": 1.25,
+      "sha256": "aa2a16466957063089a661739e30c14edb46597f5d0598f42c1ce33e9bff6431",
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\05-shop-night.jpg"
+    },
+    "06-event-booth.jpg": {
+      "bytes": 214038,
+      "width": 960,
+      "height": 1280,
+      "format": "JPEG",
+      "ratio": 1.3333,
+      "sha256": "94f498bdb98ab4d08c01a4f4cb42e7fd2413272884fb820e3d85a697b3886533",
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\06-event-booth.jpg"
+    },
+    "07-merch.jpg": {
+      "bytes": 177862,
+      "width": 960,
+      "height": 1280,
+      "format": "JPEG",
+      "ratio": 1.3333,
+      "sha256": "0a800cbdce863a76cef6adaa9b9801b9899e0e52326ecec70a640e1f5d3603b0",
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\07-merch.jpg"
+    },
+    "08-team.jpg": {
+      "bytes": 121794,
+      "width": 960,
+      "height": 1280,
+      "format": "JPEG",
+      "ratio": 1.3333,
+      "sha256": "c52201100f1168c4235206e8bfab58f8b06d5b3be4210c12c65bbe6e800d7c48",
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-miniapp\\assets\\gallery\\08-team.jpg"
+    }
+  }
+}
