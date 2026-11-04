@@ -21,3 +21,14 @@ lain dalam manifest dikekalkan):
 python %LOCALAPPDATA%\hermes\profiles\koffiecontent\scripts\threads\koffie_threads_media_build.py --apply --push
 python %LOCALAPPDATA%\hermes\profiles\koffiecontent\scripts\threads\koffie_threads_media_build.py --folder app --source-dir %LOCALAPPDATA%\hermes\projects\koffie-content\screenshots-app --apply --push
 ```
+
+## Video (sejak 4 Nov 2026)
+
+- `videos/<slug>.mp4` — video pendek untuk post Threads `media_type=VIDEO`
+- **URL mesti dihidang sebagai `video/mp4`** — `raw.githubusercontent.com` pulang
+  `application/octet-stream`, jadi video guna jsDelivr:
+  `https://cdn.jsdelivr.net/gh/salehuddinlatif/koffie-threads-assets@main/videos/<slug>.mp4`
+- Had: MP4/MOV · ≤95 MB · ≤300 s · lebar ≥320 px
+- Tambah: `python %LOCALAPPDATA%\hermes\profiles\koffiecontent\scripts\threads\koffie_threads_video_build.py --add <video.mp4> --nama 03-baru.mp4 --apply --push`
+- Manifest: kunci `videos` (nama → URL jsDelivr) + `meta` (durasi, saiz, dimensi)
+- Dalam plan harian: penanda `video=<slug>` (bukan `image=`)
