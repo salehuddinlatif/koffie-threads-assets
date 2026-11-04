@@ -5,7 +5,7 @@
     "app": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/app/",
     "gallery": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/"
   },
-  "dijana_at": "2026-11-04T02:07:55+08:00",
+  "dijana_at": "2026-11-04T19:10:25+08:00",
   "had_threads": {
     "format": "JPEG/PNG",
     "bytes_max": 8388608,
@@ -47,7 +47,14 @@
     "19-matcha-oat-tart.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/19-matcha-oat-tart.jpg",
     "20-shop-night-crowd.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/20-shop-night-crowd.jpg",
     "21-cup-in-tree.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/21-cup-in-tree.jpg",
-    "22-shop-night-street.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/22-shop-night-street.jpg"
+    "22-shop-night-street.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/22-shop-night-street.jpg",
+    "23-shop-front-cloudy.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/23-shop-front-cloudy.jpg",
+    "24-shop-front-sign.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/24-shop-front-sign.jpg",
+    "25-shop-night-umbrella.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/25-shop-night-umbrella.jpg",
+    "26-bakery-case.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/26-bakery-case.jpg",
+    "27-shop-night-cuaca.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/27-shop-night-cuaca.jpg",
+    "28-two-cups-names.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/28-two-cups-names.jpg",
+    "29-shop-night-kampung-mentol.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/29-shop-night-kampung-mentol.jpg"
   },
   "meta": {
     "01-home-a.jpg": {
@@ -70,7 +77,7 @@
       "format": "JPEG",
       "ratio": 1.7607,
       "sha256": "da519a36d4f72e4de5bc08cb6065ef76a897c442ff116620c87077a83d2ee06d",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\01-iced-latte-pour.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\01-iced-latte-pour.jpg"
     },
     "02-home-b.jpg": {
       "slug": "02-home-b",
@@ -92,7 +99,7 @@
       "format": "JPEG",
       "ratio": 1.3333,
       "sha256": "2a9774d2dc480bc839cd94d812a4e566ea67ad5b7ad5e486a12616e17666d18f",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\02-iced-coffee.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\02-iced-coffee.jpg"
     },
     "03-matcha-to-go.jpg": {
       "slug": "03-matcha-to-go",
@@ -103,7 +110,7 @@
       "format": "JPEG",
       "ratio": 1.3393,
       "sha256": "622807d028cddf5c231c8fbd31d646490dd2da52d0bea09214367abd30be3be8",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\03-matcha-to-go.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\03-matcha-to-go.jpg"
     },
     "03-order.jpg": {
       "slug": "03-order",
@@ -125,7 +132,7 @@
       "format": "JPEG",
       "ratio": 1.3337,
       "sha256": "d58a84d34b6d2405bafd0831ddcfcbc51aaf16ea88d699e7a958406ce27d9e13",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\04-coffee-cookies.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\04-coffee-cookies.jpg"
     },
     "04-order-delivery.jpg": {
       "slug": "04-order-delivery",
@@ -158,7 +165,7 @@
       "format": "JPEG",
       "ratio": 1.25,
       "sha256": "a7a51c634a9ef12ee622778484613b84d3d1d444b94e4d2d76d6ef866f078eb1",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\05-shop-night.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\05-shop-night.jpg"
     },
     "06-event-booth.jpg": {
       "slug": "06-event-booth",
@@ -169,7 +176,7 @@
       "format": "JPEG",
       "ratio": 1.3333,
       "sha256": "dd24540f27d6b88978c2d9bf09769c893f323631c620712edfa28afddc968d02",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\06-event-booth.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\06-event-booth.jpg"
     },
     "06-menu-frappe.jpg": {
       "slug": "06-menu-frappe",
@@ -202,7 +209,7 @@
       "format": "JPEG",
       "ratio": 1.3333,
       "sha256": "cb81e660a8b81878347abc9c1be8f381951903dab210115671f10d952d02616f",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\07-merch.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\07-merch.jpg"
     },
     "08-gallery-b.jpg": {
       "slug": "08-gallery-b",
@@ -224,7 +231,7 @@
       "format": "JPEG",
       "ratio": 1.3333,
       "sha256": "3f1d1ab9d514b157b6a80c5199dcca1205b0d5e5f22926718844d4d4707bcec4",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\08-team.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\08-team.jpg"
     },
     "09-gallery-c.jpg": {
       "slug": "09-gallery-c",
@@ -246,7 +253,7 @@
       "format": "JPEG",
       "ratio": 1.3333,
       "sha256": "fe4f1c605b589c431415895803c054a9851b885aef098066e030a6eb73107d79",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\09-iced-duo-car.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\09-iced-duo-car.jpg"
     },
     "10-find-us.jpg": {
       "slug": "10-find-us",
@@ -268,7 +275,7 @@
       "format": "JPEG",
       "ratio": 1.5006,
       "sha256": "3335b07bda5e8bc2826c6a8992e255ca4dca42f2492038097a41a19b48e0afb2",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\10-pickup-poster.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\10-pickup-poster.jpg"
     },
     "11-crew-sticker.jpg": {
       "slug": "11-crew-sticker",
@@ -279,7 +286,7 @@
       "format": "JPEG",
       "ratio": 1.0,
       "sha256": "f2ce4c6efc5efc196f9aa89149eb774d796baf81d9e15fa3f1a4f6a3e0078a87",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\11-crew-sticker.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\11-crew-sticker.jpg"
     },
     "12-break-glass.jpg": {
       "slug": "12-break-glass",
@@ -290,7 +297,7 @@
       "format": "JPEG",
       "ratio": 1.0,
       "sha256": "9527758c7234f6ef9febfd3ade926ad06c0e29fa2144bb8a8bac9e0d6dd14c09",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\12-break-glass.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\12-break-glass.jpg"
     },
     "13-cloudy-matcha.jpg": {
       "slug": "13-cloudy-matcha",
@@ -301,7 +308,7 @@
       "format": "JPEG",
       "ratio": 1.3333,
       "sha256": "f8b1fae8b13f3bda4abe41fcc86ac9ccfeca912bb930b873272649e58a1cfd46",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\13-cloudy-matcha.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\13-cloudy-matcha.jpg"
     },
     "14-shop-night-queue.jpg": {
       "slug": "14-shop-night-queue",
@@ -312,7 +319,7 @@
       "format": "JPEG",
       "ratio": 1.7778,
       "sha256": "c52abb4cfff41c82a8c74c12a9e35fcc922288c087cab88007f6e6d8799961c3",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\14-shop-night-queue.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\14-shop-night-queue.jpg"
     },
     "15-alley-seating.jpg": {
       "slug": "15-alley-seating",
@@ -323,7 +330,7 @@
       "format": "JPEG",
       "ratio": 1.3333,
       "sha256": "216688ecec9cc861046a4601d53ea3faa448436e314a4d21a7757eae218d28a8",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\15-alley-seating.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\15-alley-seating.jpg"
     },
     "16-focus-koffie-time.jpg": {
       "slug": "16-focus-koffie-time",
@@ -334,7 +341,7 @@
       "format": "JPEG",
       "ratio": 1.7952,
       "sha256": "6493238e21ed30d7afcdfb3077ece65e2eb24b59029709b55b81f9fd96305d62",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\16-focus-koffie-time.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\16-focus-koffie-time.jpg"
     },
     "17-cloudy-latte-gula-melaka.jpg": {
       "slug": "17-cloudy-latte-gula-melaka",
@@ -345,7 +352,7 @@
       "format": "JPEG",
       "ratio": 1.3333,
       "sha256": "8589b189782b798ebe1a6bdfde2488ae9c4e071750d08d76b7e7e561a1f288a3",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\17-cloudy-latte-gula-melaka.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\17-cloudy-latte-gula-melaka.jpg"
     },
     "18-caramel-macchiato-trio.jpg": {
       "slug": "18-caramel-macchiato-trio",
@@ -356,7 +363,7 @@
       "format": "JPEG",
       "ratio": 1.25,
       "sha256": "5e35e05059c463d8a6293889753e8f58964a7fc6de3730942209c2d59e4ccb06",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\18-caramel-macchiato-trio.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\18-caramel-macchiato-trio.jpg"
     },
     "19-matcha-oat-tart.jpg": {
       "slug": "19-matcha-oat-tart",
@@ -367,7 +374,7 @@
       "format": "JPEG",
       "ratio": 1.3333,
       "sha256": "225856d0e586661aacfcc151c4d6f9437c5d34988fe08dae357666ce5994a172",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\19-matcha-oat-tart.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\19-matcha-oat-tart.jpg"
     },
     "20-shop-night-crowd.jpg": {
       "slug": "20-shop-night-crowd",
@@ -378,7 +385,7 @@
       "format": "JPEG",
       "ratio": 1.3333,
       "sha256": "b4e01f86d41d6dc7cc09c316856c0bcea6170c602afb5f514d7bdafcf77e994e",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\20-shop-night-crowd.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\20-shop-night-crowd.jpg"
     },
     "21-cup-in-tree.jpg": {
       "slug": "21-cup-in-tree",
@@ -389,7 +396,7 @@
       "format": "JPEG",
       "ratio": 1.3333,
       "sha256": "47572aea5e51d2fdb1ab3361247465e7cafd93868d3f294d12ff38d414cf7f51",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\21-cup-in-tree.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\21-cup-in-tree.jpg"
     },
     "22-shop-night-street.jpg": {
       "slug": "22-shop-night-street",
@@ -400,7 +407,84 @@
       "format": "JPEG",
       "ratio": 1.3333,
       "sha256": "52138bff542b19e9e25ee83ef46a77cc43bf4723d7ebf71bef967b0964910f0f",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-gallery-all\\22-shop-night-street.jpg"
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\22-shop-night-street.jpg"
+    },
+    "23-shop-front-cloudy.jpg": {
+      "slug": "23-shop-front-cloudy",
+      "folder": "gallery",
+      "bytes": 212935,
+      "width": 960,
+      "height": 1280,
+      "format": "JPEG",
+      "ratio": 1.3333,
+      "sha256": "a51363e07700c30b916fbbb99fa0b60429d546b01850c0be920cc39d9106561a",
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\23-shop-front-cloudy.jpg"
+    },
+    "24-shop-front-sign.jpg": {
+      "slug": "24-shop-front-sign",
+      "folder": "gallery",
+      "bytes": 192679,
+      "width": 720,
+      "height": 1280,
+      "format": "JPEG",
+      "ratio": 1.7778,
+      "sha256": "ba1eb744757e756088a90796c5f304736951a2ac67f0dfc011007c4c1f371c3b",
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\24-shop-front-sign.jpg"
+    },
+    "25-shop-night-umbrella.jpg": {
+      "slug": "25-shop-night-umbrella",
+      "folder": "gallery",
+      "bytes": 281572,
+      "width": 960,
+      "height": 1280,
+      "format": "JPEG",
+      "ratio": 1.3333,
+      "sha256": "f87903d0141c1d044798aa2c9da943affda33614b8b9bf52052b7cd1014530f9",
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\25-shop-night-umbrella.jpg"
+    },
+    "26-bakery-case.jpg": {
+      "slug": "26-bakery-case",
+      "folder": "gallery",
+      "bytes": 171473,
+      "width": 960,
+      "height": 1280,
+      "format": "JPEG",
+      "ratio": 1.3333,
+      "sha256": "4010857f01f26957ba6ea7c5326b948cec3c605c36c68476a31e12486c6e5829",
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\26-bakery-case.jpg"
+    },
+    "27-shop-night-cuaca.jpg": {
+      "slug": "27-shop-night-cuaca",
+      "folder": "gallery",
+      "bytes": 220632,
+      "width": 720,
+      "height": 1280,
+      "format": "JPEG",
+      "ratio": 1.7778,
+      "sha256": "afdf771e6667b8244bbc47fb2cce52a72e631b4d4d7bdedc6284e16a3c607f21",
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\27-shop-night-cuaca.jpg"
+    },
+    "28-two-cups-names.jpg": {
+      "slug": "28-two-cups-names",
+      "folder": "gallery",
+      "bytes": 155180,
+      "width": 922,
+      "height": 1280,
+      "format": "JPEG",
+      "ratio": 1.3883,
+      "sha256": "549241a8404242bccc68c901c55cc54b59561d775cae20f2e06a99bb135502f8",
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\28-two-cups-names.jpg"
+    },
+    "29-shop-night-kampung-mentol.jpg": {
+      "slug": "29-shop-night-kampung-mentol",
+      "folder": "gallery",
+      "bytes": 288913,
+      "width": 960,
+      "height": 1280,
+      "format": "JPEG",
+      "ratio": 1.3333,
+      "sha256": "eed91e13b76abe6830028042633354e6963706606b7da13e9ca5c06cc82bbdad",
+      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\29-shop-night-kampung-mentol.jpg"
     }
   }
 }
