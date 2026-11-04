@@ -4,7 +4,7 @@
   "folders": {
     "app": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/app/",
     "gallery": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/",
-    "videos": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/videos/"
+    "videos": "https://cdn.jsdelivr.net/gh/salehuddinlatif/koffie-threads-assets@main/videos/"
   },
   "dijana_at": "2026-11-04T19:10:25+08:00",
   "had_threads": {
@@ -513,7 +513,7 @@
     }
   },
   "videos": {
-    "01-shop-night-crowd.mp4": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/videos/01-shop-night-crowd.mp4",
-    "02-latte-phone.mp4": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/videos/02-latte-phone.mp4"
+    "01-shop-night-crowd.mp4": "https://cdn.jsdelivr.net/gh/salehuddinlatif/koffie-threads-assets@main/videos/01-shop-night-crowd.mp4",
+    "02-latte-phone.mp4": "https://cdn.jsdelivr.net/gh/salehuddinlatif/koffie-threads-assets@main/videos/02-latte-phone.mp4"
   }
 }
