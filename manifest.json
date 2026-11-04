@@ -3,7 +3,8 @@
   "base_url": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/",
   "folders": {
     "app": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/app/",
-    "gallery": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/"
+    "gallery": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/",
+    "videos": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/videos/"
   },
   "dijana_at": "2026-11-04T19:10:25+08:00",
   "had_threads": {
@@ -485,6 +486,34 @@
       "ratio": 1.3333,
       "sha256": "eed91e13b76abe6830028042633354e6963706606b7da13e9ca5c06cc82bbdad",
       "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\threads-g2\\29-shop-night-kampung-mentol.jpg"
+    },
+    "01-shop-night-crowd.mp4": {
+      "slug": "01-shop-night-crowd",
+      "folder": "videos",
+      "jenis": "video",
+      "bytes": 1145406,
+      "width": 464,
+      "height": 848,
+      "duration": 5.33,
+      "format": "MOV",
+      "ratio": 1.8276,
+      "sha256": "c1fa466ec5879b524bd1a0a8c26f6c8897c2ac6023b2f3ad8fe34ff75cc58b64"
+    },
+    "02-latte-phone.mp4": {
+      "slug": "02-latte-phone",
+      "folder": "videos",
+      "jenis": "video",
+      "bytes": 2141854,
+      "width": 464,
+      "height": 848,
+      "duration": 9.9,
+      "format": "MOV",
+      "ratio": 1.8276,
+      "sha256": "7382b530708bc7038c66a708a680282d4c57a00921229102192e08836473dd69"
     }
+  },
+  "videos": {
+    "01-shop-night-crowd.mp4": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/videos/01-shop-night-crowd.mp4",
+    "02-latte-phone.mp4": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/videos/02-latte-phone.mp4"
   }
 }
