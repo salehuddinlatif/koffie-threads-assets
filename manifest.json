@@ -6,7 +6,7 @@
     "gallery": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/",
     "videos": "https://cdn.jsdelivr.net/gh/salehuddinlatif/koffie-threads-assets@main/videos/"
   },
-  "dijana_at": "2026-11-07T01:46:10+08:00",
+  "dijana_at": "2026-11-07T02:42:39+08:00",
   "had_threads": {
     "format": "JPEG/PNG",
     "bytes_max": 8388608,
@@ -38,8 +38,12 @@
     "10-find-us.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/app/10-find-us.jpg",
     "10-pickup-poster.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/10-pickup-poster.jpg",
     "11-crew-sticker.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/11-crew-sticker.jpg",
+    "11-koffie-club.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/app/11-koffie-club.jpg",
+    "12-addon-picker.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/app/12-addon-picker.jpg",
     "12-break-glass.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/12-break-glass.jpg",
+    "13-cart-send-order.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/app/13-cart-send-order.jpg",
     "13-cloudy-matcha.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/13-cloudy-matcha.jpg",
+    "14-full-menu.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/app/14-full-menu.jpg",
     "14-shop-night-queue.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/14-shop-night-queue.jpg",
     "15-alley-seating.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/15-alley-seating.jpg",
     "16-focus-koffie-time.jpg": "https://raw.githubusercontent.com/salehuddinlatif/koffie-threads-assets/main/gallery/16-focus-koffie-time.jpg",
@@ -72,7 +76,7 @@
       "format": "JPEG",
       "ratio": 2.1641,
       "sha256": "953161f5a1cc4de4776610152be6246a02743de9ded74576e2169471c818cb94",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\app\\01-home-a.jpg"
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-content\\app-screens\\01-home-a.jpg"
     },
     "01-iced-latte-pour.jpg": {
       "slug": "01-iced-latte-pour",
@@ -85,18 +89,6 @@
       "sha256": "da519a36d4f72e4de5bc08cb6065ef76a897c442ff116620c87077a83d2ee06d",
       "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\gallery\\01-iced-latte-pour.jpg"
     },
-    "01-shop-night-crowd.mp4": {
-      "slug": "01-shop-night-crowd",
-      "folder": "videos",
-      "jenis": "video",
-      "bytes": 1145406,
-      "width": 464,
-      "height": 848,
-      "duration": 5.33,
-      "format": "MOV",
-      "ratio": 1.8276,
-      "sha256": "c1fa466ec5879b524bd1a0a8c26f6c8897c2ac6023b2f3ad8fe34ff75cc58b64"
-    },
     "02-home-b.jpg": {
       "slug": "02-home-b",
       "folder": "app",
@@ -106,7 +98,7 @@
       "format": "JPEG",
       "ratio": 2.1641,
       "sha256": "197c9dec6e2b7fb09563891b5b83e9d048b3865608ea85a6b1fb38f0f5faf36e",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\app\\02-home-b.jpg"
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-content\\app-screens\\02-home-b.jpg"
     },
     "02-iced-coffee.jpg": {
       "slug": "02-iced-coffee",
@@ -118,18 +110,6 @@
       "ratio": 1.3333,
       "sha256": "2a9774d2dc480bc839cd94d812a4e566ea67ad5b7ad5e486a12616e17666d18f",
       "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\gallery\\02-iced-coffee.jpg"
-    },
-    "02-latte-phone.mp4": {
-      "slug": "02-latte-phone",
-      "folder": "videos",
-      "jenis": "video",
-      "bytes": 2141854,
-      "width": 464,
-      "height": 848,
-      "duration": 9.9,
-      "format": "MOV",
-      "ratio": 1.8276,
-      "sha256": "7382b530708bc7038c66a708a680282d4c57a00921229102192e08836473dd69"
     },
     "03-matcha-to-go.jpg": {
       "slug": "03-matcha-to-go",
@@ -151,7 +131,7 @@
       "format": "JPEG",
       "ratio": 2.1641,
       "sha256": "da17532f7fff9ed7510620485f389a308e48c36674287aa42397b7f123d1078e",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\app\\03-order.jpg"
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-content\\app-screens\\03-order.jpg"
     },
     "04-coffee-cookies.jpg": {
       "slug": "04-coffee-cookies",
@@ -173,7 +153,7 @@
       "format": "JPEG",
       "ratio": 2.1641,
       "sha256": "d0dc9f41fdf87ba0021dac00055b739d03474feb1eaaec64328c27a5963188b3",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\app\\04-order-delivery.jpg"
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-content\\app-screens\\04-order-delivery.jpg"
     },
     "05-menu-signature.jpg": {
       "slug": "05-menu-signature",
@@ -184,7 +164,7 @@
       "format": "JPEG",
       "ratio": 2.1641,
       "sha256": "8359c016bc8f9454dd07368afb7265ec3f1e076c65281ef0c8a28050cae451b8",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\app\\05-menu-signature.jpg"
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-content\\app-screens\\05-menu-signature.jpg"
     },
     "05-shop-night.jpg": {
       "slug": "05-shop-night",
@@ -217,7 +197,7 @@
       "format": "JPEG",
       "ratio": 2.1641,
       "sha256": "028e9c7b73dc59abf0c706dea5f7fcce30fa19968555bb22f6f2bd51a636858a",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\app\\06-menu-frappe.jpg"
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-content\\app-screens\\06-menu-frappe.jpg"
     },
     "07-gallery-a.jpg": {
       "slug": "07-gallery-a",
@@ -228,7 +208,7 @@
       "format": "JPEG",
       "ratio": 2.1641,
       "sha256": "c98a7ad3d49a7990795027422f2c9ad69fa2cda9786cd2ddaa18ffc2e7ee0009",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\app\\07-gallery-a.jpg"
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-content\\app-screens\\07-gallery-a.jpg"
     },
     "07-merch.jpg": {
       "slug": "07-merch",
@@ -250,7 +230,7 @@
       "format": "JPEG",
       "ratio": 2.1641,
       "sha256": "300cb2cf7e18ff1ee3f58632da07d17ebbba5731c9e280f58f1367b079428674",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\app\\08-gallery-b.jpg"
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-content\\app-screens\\08-gallery-b.jpg"
     },
     "08-team.jpg": {
       "slug": "08-team",
@@ -272,7 +252,7 @@
       "format": "JPEG",
       "ratio": 2.1641,
       "sha256": "39704211ce864890205ce7f90ddbd9ffa320c489fe9be4b2bbbce596e0c10264",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\app\\09-gallery-c.jpg"
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-content\\app-screens\\09-gallery-c.jpg"
     },
     "09-iced-duo-car.jpg": {
       "slug": "09-iced-duo-car",
@@ -294,7 +274,7 @@
       "format": "JPEG",
       "ratio": 2.1641,
       "sha256": "23c392f1dcd2046fe10f0d9a1e64bacab3858ab35c5b068d710d1c444f9eaf67",
-      "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\app\\10-find-us.jpg"
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-content\\app-screens\\10-find-us.jpg"
     },
     "10-pickup-poster.jpg": {
       "slug": "10-pickup-poster",
@@ -318,6 +298,28 @@
       "sha256": "f2ce4c6efc5efc196f9aa89149eb774d796baf81d9e15fa3f1a4f6a3e0078a87",
       "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\gallery\\11-crew-sticker.jpg"
     },
+    "11-koffie-club.jpg": {
+      "slug": "11-koffie-club",
+      "folder": "app",
+      "bytes": 35134,
+      "width": 390,
+      "height": 844,
+      "format": "JPEG",
+      "ratio": 2.1641,
+      "sha256": "951c1975fd887754d562035a2af84d7bbcec7896b931fc7d8d24024722cf1d85",
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-content\\app-screens\\11-koffie-club.jpg"
+    },
+    "12-addon-picker.jpg": {
+      "slug": "12-addon-picker",
+      "folder": "app",
+      "bytes": 30257,
+      "width": 390,
+      "height": 844,
+      "format": "JPEG",
+      "ratio": 2.1641,
+      "sha256": "2eaba3f2a8385733952ff97bdbfad9d57cd59f65d8ae5f319c209478d5f5c042",
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-content\\app-screens\\12-addon-picker.jpg"
+    },
     "12-break-glass.jpg": {
       "slug": "12-break-glass",
       "folder": "gallery",
@@ -329,6 +331,17 @@
       "sha256": "9527758c7234f6ef9febfd3ade926ad06c0e29fa2144bb8a8bac9e0d6dd14c09",
       "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\gallery\\12-break-glass.jpg"
     },
+    "13-cart-send-order.jpg": {
+      "slug": "13-cart-send-order",
+      "folder": "app",
+      "bytes": 39864,
+      "width": 390,
+      "height": 844,
+      "format": "JPEG",
+      "ratio": 2.1641,
+      "sha256": "25650ac3ee71b1abd9190912c72e9a86cea92ed14f505a487b8bbeb3726a4380",
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-content\\app-screens\\13-cart-send-order.jpg"
+    },
     "13-cloudy-matcha.jpg": {
       "slug": "13-cloudy-matcha",
       "folder": "gallery",
@@ -339,6 +352,17 @@
       "ratio": 1.3333,
       "sha256": "f8b1fae8b13f3bda4abe41fcc86ac9ccfeca912bb930b873272649e58a1cfd46",
       "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\gallery\\13-cloudy-matcha.jpg"
+    },
+    "14-full-menu.jpg": {
+      "slug": "14-full-menu",
+      "folder": "app",
+      "bytes": 59221,
+      "width": 390,
+      "height": 844,
+      "format": "JPEG",
+      "ratio": 2.1641,
+      "sha256": "6d00d09a7f23e99488324c0fbbc2c768f8dd17c1fba0b53b41d39109ec1da50d",
+      "sumber": "%LOCALAPPDATA%\\hermes\\projects\\koffie-content\\app-screens\\14-full-menu.jpg"
     },
     "14-shop-night-queue.jpg": {
       "slug": "14-shop-night-queue",
@@ -571,9 +595,5 @@
       "sha256": "f15b2d0c8a35ba37fd9c6033ccf46e1d4efc7e9922f67331d38ea410cb16ca02",
       "sumber": "C:\\Users\\user\\AppData\\Local\\Temp\\koffie-staging-20261107\\gallery\\34-lorong-senja.jpg"
     }
-  },
-  "videos": {
-    "01-shop-night-crowd.mp4": "https://cdn.jsdelivr.net/gh/salehuddinlatif/koffie-threads-assets@main/videos/01-shop-night-crowd.mp4",
-    "02-latte-phone.mp4": "https://cdn.jsdelivr.net/gh/salehuddinlatif/koffie-threads-assets@main/videos/02-latte-phone.mp4"
   }
 }
